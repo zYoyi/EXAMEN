@@ -1,4 +1,4 @@
-# GUIA-DE-EXAMEN
+# EXAMEN
 <pre>
 
 	<p align=center>
@@ -19,10 +19,10 @@ Docente:
 M.C. Rene Solis Reyes 
 
 Unidad:
-1
+2
 
 Título del trabajo:
-Entregar INTERACTIVIDAD en el shell con "ASCIINEMA" de unos programas nivel intermedio  
+Examen
 
 Estudiante:
 Ortega Jimenez Jordi Joel
