@@ -28,7 +28,3 @@ Ortega Jimenez Jordi Joel
 
 	</p>
 
-</pre>
-
-<pre>
-
